@@ -63,7 +63,7 @@ The SQLite database and WhatsApp session files are generated locally and are exc
 ### Step 1: Clone the repository
 
 ```bash
-git clone 🔴 YOUR_GITHUB_REPOSITORY_URL
+git clone  https://github.com/mohamed232002/ecommerce-whatsapp-agent.git
 cd ecommerce-whatsapp-agent
 ```
 
