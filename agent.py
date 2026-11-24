@@ -229,7 +229,7 @@ def process_message(message: str, phone: str) -> str:
 
     try:
         # Allow multiple tool-calling rounds in one customer turn
-        for _ in range(5):
+        for _ in range(10):
             response =  generate_content_with_retry(
                 contents=history,
                 config=types.GenerateContentConfig(
