@@ -255,3 +255,8 @@ The project demonstration should show:
 5. The resulting cart or order information.
 6. The corresponding database changes.
 
+## Project Demo Video
+
+Watch the project demonstration video:
+
+[Download Project Demo Video](https://github.com/mohamed232002/ecommerce-whatsapp-agent/releases/download/v1.0.0/demo_project.mkv)
